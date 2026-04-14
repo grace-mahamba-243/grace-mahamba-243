@@ -9,29 +9,15 @@
 
 ---
 
-### À propos de moi
+### ⚙️ &nbsp;GitHub Analytics
 
-- Développeuse web passionnée
-- Spécialisée en **React**
-- Je développe des API avec **NestJS**
-- Je maîtrise **Docker**
-- J’aime créer des applications modernes, propres et performantes
+<p align="left">
+<a href="https://github.com/espoirbaraka">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=espoirbaraka&show_icons=true&theme=algolia&include_all_commits=true&count_private=true+count_public=true"/>
 
----
+</a>
+</p>
 
-### Stack technique
-
-**Frontend:** React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS  
-**Backend:** NestJS, Node.js, Express  
-**Base de données:** MongoDB, MySQL, PostgreSQL  
-**Outils:** Docker, Git, GitHub, Postman, VS Code
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grace-mahamba-243&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
 <p align="center">
