@@ -13,24 +13,11 @@
 
 <p align="left">
 <a href="https://github.com/espoirbaraka">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=espoirbaraka&show_icons=true&theme=algolia&include_all_commits=true&count_private=true+count_public=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=grace-mahamba-243&show_icons=true&theme=algolia&include_all_commits=true&count_private=true+count_public=true"/>
 
 </a>
 </p>
 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grace-mahamba-243&layout=compact&theme=tokyonight" alt="langs" />
-</p>
 
----
-
-### Contact
-
-- GitHub: [grace-mahamba-243](https://github.com/grace-mahamba-243)
-- Email: mumberemahambagoma@gmail.com
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grace-mahamba-243&" alt="grace-mahamba-243" /></p>
