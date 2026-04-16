@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, moi c'est Mumbere Mahamba Grace</h1>
-<h3 align="center">Développeuse Web | React • NestJS • Docker</h3>
+<h3 align="center">Développeur Web | React • NestJS • Docker</h3>
 
 <p align="center">
   <a href="https://user-badge.committers.top/congo_kinshasa_public/grace-mahamba-243">
